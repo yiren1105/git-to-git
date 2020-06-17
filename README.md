@@ -8,3 +8,5 @@ git merge 4
 test 5
 
 ### git test 6
+
+git test 7
